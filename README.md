@@ -1,5 +1,43 @@
 # License
 This project is licensed under the [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/legalcode.txt)
 
-# FinalCursor
-Cursor I made for myself, Takes inspiration yeyushengfan258/Future-cursors \n https://github.com/yeyushengfan258/Future-cursors?tab=readme-ov-file \n which I recommend checking out
+You are free to:
+
+    Share — copy and redistribute the material in any medium or format for any purpose, even commercially.
+    Adapt — remix, transform, and build upon the material for any purpose, even commercially.
+    The licensor cannot revoke these freedoms as long as you follow the license terms.
+
+Under the following terms:
+
+    Attribution — You must give appropriate credit, provide a link to the license, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.
+    No additional restrictions — You may not apply legal terms or technological measures that legally restrict others from doing anything the license permits.
+
+Notices:
+
+You do not have to comply with the license for elements of the material in the public domain or where your use is permitted by an applicable exception or limitation.
+
+No warranties are given. The license may not give you all of the permissions necessary for your intended use. For example, other rights such as publicity, privacy, or moral rights may limit how you use the material. 
+s
+
+
+# Description
+Cursor I made for myself, Takes heavy inspiration [yeyushengfan258/Future-cursors](https://github.com/yeyushengfan258/Future-cursors?tab=readme-ov-file) which I think is awsome and recommend checking out.
+
+It's very minimal for now and overrides most requests with the main cursor.
+I plan to make this a complete set of cursors over time, Feel free to request a cursor (eyedropper, zoom-in/out, etc.) or make suggestions. 
+I also intend on making an xcursor package soon.
+
+# Installation
+- Download the folder "FinalCursor" and place it inside ~/.local/share/icons/
+    In order to test before adding env vars run
+    hyprctl setcursor FinalCursor 32
+    
+- Add the environmental variables to your hyprland config:
+    Lua syntax:
+      hl.env("HYPRCURSOR_THEME", "FinalCursor")
+      hl.env("HYPRCURSOR_SIZE", "32")
+    Hyprlang:
+      env = HYPRCURSOR_THEME, FinalCursor
+      env = HYPRCURSOR_SIZE, 32
+      
+- Apply by restarting hyprland or manually for this session by running the aforementioned setcursor command 
