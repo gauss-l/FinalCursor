@@ -27,6 +27,9 @@ It's very minimal for now and overrides most requests with the main cursor.
 I plan to make this a complete set of cursors over time, Feel free to request a cursor (eyedropper, zoom-in/out, etc.) or make suggestions. 
 I also intend on making an xcursor package soon.
 
+# Requirments
+Required are [Hyprland](https://hypr.land/) and [Hyprcursor](https://github.com/hyprwm/hyprcursor)
+
 # Installation
 - Download the folder "FinalCursor" and place it inside 
   ```~/.local/share/icons/```
