@@ -24,10 +24,10 @@ s
 Cursor I made for myself, Takes heavy inspiration [yeyushengfan258/Future-cursors](https://github.com/yeyushengfan258/Future-cursors?tab=readme-ov-file) which I think is awsome and recommend checking out.
 
 It's very minimal for now and overrides most requests with the main cursor.
-I plan to make this a complete set of cursors over time, Feel free to request a cursor (eyedropper, zoom-in/out, etc.) or make suggestions. 
+I plan to make this a complete set of cursors over time, Requests and suggestions are very welcome. 
 I also intend on making an xcursor package soon.
 
-# Requirments
+# Requirements
 Required are [Hyprland](https://hypr.land/) and [Hyprcursor](https://github.com/hyprwm/hyprcursor)
 
 # Installation
