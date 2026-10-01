@@ -28,16 +28,15 @@ I plan to make this a complete set of cursors over time, Feel free to request a 
 I also intend on making an xcursor package soon.
 
 # Installation
-- Download the folder "FinalCursor" and place it inside ~/.local/share/icons/
-    In order to test before adding env vars run
-    hyprctl setcursor FinalCursor 32
+- Download the folder "FinalCursor" and place it inside '''"~/.local/share/icons/"'''
+  - In order to test before adding env vars run '''hyprctl setcursor FinalCursor 32'''
     
 - Add the environmental variables to your hyprland config:
-    Lua syntax:
-      hl.env("HYPRCURSOR_THEME", "FinalCursor")
-      hl.env("HYPRCURSOR_SIZE", "32")
-    Hyprlang:
-      env = HYPRCURSOR_THEME, FinalCursor
-      env = HYPRCURSOR_SIZE, 32
+    - Lua syntax:
+      '''hl.env("HYPRCURSOR_THEME", "FinalCursor")
+      hl.env("HYPRCURSOR_SIZE", "32")'''
+    - Hyprlang:
+      '''env = HYPRCURSOR_THEME, FinalCursor
+      env = HYPRCURSOR_SIZE, 32'''
       
 - Apply by restarting hyprland or manually for this session by running the aforementioned setcursor command 
