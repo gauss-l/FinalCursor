@@ -33,10 +33,12 @@ I also intend on making an xcursor package soon.
     
 - Add the environmental variables to your hyprland config:
     - Lua syntax:
-      ```hl.env("HYPRCURSOR_THEME", "FinalCursor")
+      ```
+      hl.env("HYPRCURSOR_THEME", "FinalCursor")
       hl.env("HYPRCURSOR_SIZE", "32")```
     - Hyprlang:
-      ```env = HYPRCURSOR_THEME, FinalCursor
+      ```
+      env = HYPRCURSOR_THEME, FinalCursor
       env = HYPRCURSOR_SIZE, 32```
       
 - Apply by restarting hyprland or manually for this session by running the aforementioned setcursor command 
