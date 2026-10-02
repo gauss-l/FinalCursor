@@ -27,6 +27,8 @@ It's very minimal for now and overrides most requests with the main cursor.
 I plan to make this a complete set of cursors over time, Requests and suggestions are very welcome. 
 I also intend on making an xcursor package soon.
 
+Also attached are the svg's used for the convenience of anyone looking to modify them or move them around.
+
 # Requirements
 Required are [Hyprland](https://hypr.land/) and [Hyprcursor](https://github.com/hyprwm/hyprcursor)
 
