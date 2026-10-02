@@ -21,7 +21,7 @@ No warranties are given. The license may not give you all of the permissions nec
 
 # Description
 ![collage](svg/collage.svg)
-Cursor I made for myself, Takes heavy inspiration [Joël K./Future Cyan Hyprcursor]([https://github.com/yeyushengfan258/Future-cursors?tab=readme-ov-file](https://gitlab.com/Pummelfisch/future-cyan-hyprcursor)) which I think is awsome and recommend checking out.
+Cursor I made for myself, Takes heavy inspiration [Joël K./Future Cyan Hyprcursor](https://gitlab.com/Pummelfisch/future-cyan-hyprcursor) which I think is awsome and recommend checking out.
 
 It's very minimal for now and overrides most requests with the main cursor.
 I plan to make this a complete set of cursors over time, Requests and suggestions are very welcome. 
