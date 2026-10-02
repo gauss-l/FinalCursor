@@ -34,10 +34,13 @@ Required are [Hyprland](https://hypr.land/) and [Hyprcursor](https://github.com/
 
 # Installation
 - Download the folder "FinalCursor-theme" and place it inside 
-  ```~/.local/share/icons/```
+  ```
+  ~/.local/share/icons/
+  ```
   - In order to test before adding env vars run 
-  ```hyprctl setcursor FinalCursor-theme 32
-    ```
+  ```
+  hyprctl setcursor FinalCursor-theme 32
+  ```
 - Add the environmental variables to your hyprland config:
     - Lua syntax: 
     ```
