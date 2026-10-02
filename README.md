@@ -37,11 +37,11 @@ Required are [Hyprland](https://hypr.land/) and [Hyprcursor](https://github.com/
   ```
   ~/.local/share/icons/
   ```
-  - In order to test before adding env vars run 
+  - In order to test before adding envars run 
   ```
   hyprctl setcursor FinalCursor-theme 32
   ```
-- Add the environmental variables to your hyprland config:
+- Add the following environmental variables to your hyprland config:
     - Lua syntax: 
     ```
       hl.env("HYPRCURSOR_THEME", "FinalCursor-theme")
