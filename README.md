@@ -20,7 +20,7 @@ No warranties are given. The license may not give you all of the permissions nec
 
 
 # Description
-![collage]()
+![collage](svg/collage.svg)
 Cursor I made for myself, Takes heavy inspiration [yeyushengfan258/Future-cursors](https://github.com/yeyushengfan258/Future-cursors?tab=readme-ov-file) which I think is awsome and recommend checking out.
 
 It's very minimal for now and overrides most requests with the main cursor.
