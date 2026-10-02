@@ -40,14 +40,14 @@ Required are [Hyprland](https://hypr.land/) and [Hyprcursor](https://github.com/
 ```
 - Add the environmental variables to your hyprland config:
     - Lua syntax: 
-      ```
+```
       hl.env("HYPRCURSOR_THEME", "FinalCursor-theme")
       hl.env("HYPRCURSOR_SIZE", "32")
-      ```
+```
     - Hyprlang: 
-      ```
+```
       env = HYPRCURSOR_THEME, FinalCursor-theme
       env = HYPRCURSOR_SIZE, 32
-      ```
+```
       
 - Apply by restarting hyprland or manually for this session by running the aforementioned setcursor command 
