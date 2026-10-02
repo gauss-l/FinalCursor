@@ -2,6 +2,16 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
+  <style>
+    text, path, tspan {
+      fill: #000000;
+    }
+    @media (prefers-color-scheme: dark) {
+     text, path, tspan {
+        fill: #ffffff !important;
+    }
+    }
+  </style>
    width="918"
    height="892"
    viewBox="0 0 242.8875 236.00832"
